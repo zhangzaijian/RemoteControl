@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  RemoteControlClient.cpp
+d:\vs2013code\remotecontrolclient\remotecontrolclient\remotecontrolclient.cpp(248): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vs2013code\remotecontrolclient\remotecontrolclient\remotecontrolclient.cpp(307): warning C4715: “OnCmdScreen”: 不是所有的控件路径都返回值
+d:\vs2013code\remotecontrolclient\remotecontrolclient\remotecontrolclient.cpp(391): warning C4715: “OnMyMouseMove”: 不是所有的控件路径都返回值
+  RemoteControlClient.vcxproj -> D:\vs2013Code\RemoteControlClient\Debug\RemoteControlClient.exe
